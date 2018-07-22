@@ -6,4 +6,4 @@ Size: 124kB
 Maintainer: Senka Wolf <ryan@senkawolf.com>
 Depends: com.alexzielenski.zeppelin
 Description: Contains logos for Zeppelin.
-Section: Themes
+Section: Addons (Zeppelin)
