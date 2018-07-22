@@ -1,11 +1,11 @@
 Package: com.senkawolf.senkaszeppeliniconpack
-Section: Themes
+Section: Addons (Zeppelin)
 Maintainer: Senka Wolf <ryan@senkawolf.com>
 Architecture: iphoneos-arm
 Version: 1.0
 Depends: com.alexzielenski.zeppelin
 Filename: debs/com.senkawolf.senkaszeppeliniconpack/
-Size: 3.26 MB
+Size: 124kB
 MD5sum: 
 SHA1: 
 SHA256: 
