@@ -1,6 +1,9 @@
 # Senka's Repo
 IOS Jailbreak repo with tweaks I have made
 
+Add to cydia at the url below:
+https://senkawolf.github.io/
+
 ## Tweaks included in this repo
 
 ___
