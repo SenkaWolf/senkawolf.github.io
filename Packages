@@ -5,10 +5,11 @@ Architecture: iphoneos-arm
 Version: 1.0
 Depends: com.alexzielenski.zeppelin
 Filename: debs/com.senkawolf.senkaszeppeliniconpack.deb
-Size: 2573401 
-MD5sum: f8ff59625c9736a7df447e7437a67e4d
-SHA1: 689340F860E53AA34AC6FE91071866720AD1E0D2
-SHA256: B76935A3B35926E9EBCAD4E420F9092881825A212D2549B202ED551B8B138426
+Size: 76078
+MD5sum: bf6ca2f5cf09c14ab964da7c8941214a
+SHA1: B2C00477799CF94763CC0485D0C3B86ACAB668F4
+SHA256: 617B8692FE03EC284AFE5928EA6B03881410049EEA4F4D54AD202D273699EB1D
+Section: Zeppelin
 Description: Senka's Zeppelin Icon Pack
 Name: Senka's Zeppelin Icon Pack
 Author: Senka Wolf <ryan@senkawolf.com>
