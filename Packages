@@ -4,7 +4,7 @@ Maintainer: Senka Wolf <ryan@senkawolf.com>
 Architecture: iphoneos-arm
 Version: 1.0
 Depends: com.alexzielenski.zeppelin
-Filename: debs/com.senkawolf.senkaszeppeliniconpack/
+Filename: debs/com.senkawolf.senkaszeppeliniconpack.deb
 Size: 124kB
 MD5sum: 
 SHA1: 
