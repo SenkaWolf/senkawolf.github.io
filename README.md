@@ -3,7 +3,7 @@ IOS Jailbreak repo with tweaks I have made
 
 ## Tweaks included in this repo
 
-####Senka's Zeppelin Icon Pack
+#### Senka's Zeppelin Icon Pack
 Icon pack for popular iOS Jailbreak tweak, Zeppelin. Requires jailbroken device and the jailbreak application, Zeppelin.
 
 ## Installation Instructions: 
