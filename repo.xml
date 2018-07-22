@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Like me on Facebook</name>
+			<url>https://www.facebook.com/SenkaWolfGaming</url>
+			<iconclass>fa fa-facebook</iconclass>
+		</link>
+		<link>
+			<name>Website</name>
+			<url>https://senkawolf.com/</url>
+			<iconclass>fa fa-globe</iconclass>
+		</link>
+	</footerlinks>
+</repo>
