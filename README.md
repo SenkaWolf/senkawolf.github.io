@@ -1,8 +1,9 @@
 # Senka's REepo
 IOS Jailbreak repo with tweaks I have made
 
-## Tweaks included in this repo  
+## Tweaks included in this repo
 
+___
 ### Senka's Zeppelin Icon Pack
 > Icon pack for popular iOS Jailbreak tweak, Zeppelin. Requires jailbroken device and the jailbreak application, Zeppelin.
 
@@ -12,4 +13,4 @@ IOS Jailbreak repo with tweaks I have made
 > **Previews**
 
 ![Wolf Preview](https://github.com/SenkaWolf/senkawolf.github.io/blob/master/Screenshots/wolf.png?raw=true)
-<br/>
+___
