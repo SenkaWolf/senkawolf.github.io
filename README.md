@@ -1,4 +1,4 @@
-# Senka's REepo
+# Senka's Repo
 IOS Jailbreak repo with tweaks I have made
 
 ## Tweaks included in this repo
