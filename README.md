@@ -16,4 +16,6 @@ ___
 > **Previews**
 
 ![Wolf Preview](https://github.com/SenkaWolf/senkawolf.github.io/blob/master/Screenshots/wolf.png?raw=true)
+![Senka Preview](https://github.com/SenkaWolf/senkawolf.github.io/blob/master/Screenshots/senka.png?raw=true)
+![JapChar Preview](https://github.com/SenkaWolf/senkawolf.github.io/blob/master/Screenshots/JapChar.png?raw=true)
 ___
