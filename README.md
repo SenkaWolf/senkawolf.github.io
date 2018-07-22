@@ -7,8 +7,8 @@ ___
 ### Senka's Zeppelin Icon Pack
 > Icon pack for popular iOS Jailbreak tweak, Zeppelin. Requires jailbroken device and the jailbreak application, Zeppelin.
 
-> **Installation Instructions:**
-> Download the icons, go to Library/Zeppelin in iFile or your SSH phone. Then upload the folders within the Zeppelin folder you downloaded and its contents into this directory. Finally goto settings on your device then scroll to Zeppelin, and select the icon you wish to use.
+> **Manual Installation Instructions:**
+> Download the icons from debs/com.senkawolf.senkaszeppeliniconpack/Library/Zeppelin, go to Library/Zeppelin in iFile or your SSH phone. Then upload the folders within the Zeppelin folder you downloaded and its contents into this directory. Finally goto settings on your device then scroll to Zeppelin, and select the icon you wish to use.
 
 > **Previews**
 
