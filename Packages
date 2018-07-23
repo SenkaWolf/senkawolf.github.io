@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Version: 1.1
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.senkawolf.senkaszeppeliniconpack.deb
-Size: 21726
+Size: 21712
 MD5sum: f6d00ecd9a722e7b60ea86a2862d502f
 SHA1: C470E8C50798BFFE938E78A519E7DA60460A2817
 SHA256: 7FCF316D7CCDF11E28BC171E789FA42362934878D5FBF890633DCFC7107F090A
@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Version: 1.0
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.senkawolf.wtlvtczeppeliniconpack.deb
-Size: 21726
+Size: 9092
 MD5sum: fc944a1d66ed988206ecb8eb9934c542
 SHA1: 314835BF5BDDDDBB1141FF1F0BFDC3DF2503006A
 SHA256: 625C91F8425E3445C7CD01650B91F88342D20083AB1CC6D530C04B9785F69124
