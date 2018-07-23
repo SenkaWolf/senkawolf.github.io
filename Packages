@@ -2,14 +2,30 @@ Package: com.senkawolf.senkaszeppeliniconpack
 Section: Addons (Zeppelin)
 Maintainer: Senka Wolf <ryan@senkawolf.com>
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.senkawolf.senkaszeppeliniconpack.deb
 Size: 21726
-MD5sum: 8b4eb1d64d2ca6179e0fec3ce2a3a088
-SHA1: 0A4BA865F65A65284A8135110F01718D74911D8A
-SHA256: F55C5BB12F1EC3954134F5936DD80704DC06AF22D433E5F6392DE09ACC388EE7
-Section: Zeppelin
+MD5sum: f6d00ecd9a722e7b60ea86a2862d502f
+SHA1: C470E8C50798BFFE938E78A519E7DA60460A2817
+SHA256: 7FCF316D7CCDF11E28BC171E789FA42362934878D5FBF890633DCFC7107F090A
+Section: Addons (Zeppelin)
 Description: Senka's Zeppelin Icon Pack
 Name: Senka's Zeppelin Icon Pack
+Author: Senka Wolf <ryan@senkawolf.com>
+
+Package: com.senkawolf.wtlvtczeppeliniconpack
+Section: Addons (Zeppelin)
+Maintainer: Senka Wolf <ryan@senkawolf.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs/com.senkawolf.wtlvtczeppeliniconpack.deb
+Size: 21726
+MD5sum: fc944a1d66ed988206ecb8eb9934c542
+SHA1: 314835BF5BDDDDBB1141FF1F0BFDC3DF2503006A
+SHA256: 625C91F8425E3445C7CD01650B91F88342D20083AB1CC6D530C04B9785F69124
+Section: Addons (Zeppelin)
+Description: Worldwide Trucking Logistics VTC Zeppelin Icon Pack
+Name: WTLVTC Zeppelin Icon Pack
 Author: Senka Wolf <ryan@senkawolf.com>
