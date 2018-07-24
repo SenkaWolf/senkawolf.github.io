@@ -29,3 +29,19 @@ Section: Addons (Zeppelin)
 Description: Worldwide Trucking Logistics VTC Zeppelin Icon Pack
 Name: WTLVTC Zeppelin Icon Pack
 Author: Senka Wolf <ryan@senkawolf.com>
+
+Package: com.senkawolf.malipospack
+Section: Addons (Malipo)
+Maintainer: Senka Wolf <ryan@senkawolf.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: com.ikilledappl3.malipo
+Filename: ./debs/com.senkawolf.malipospack.deb
+Size: 1100686
+MD5sum: b6b320f1946eb9a497614a80a6b80dfa
+SHA1: be04ccd80a0f9246c18293e7174859a8f71b7425
+SHA256: 1cf74f596c39114ef5d999d69e3b59d6dd41066cab6ccf1100224936f8fc3a6d
+Section: Addons (Zeppelin)
+Description: Sounds pack for Malipo
+Name: Malipo Sounds Pack
+Author: Senka Wolf <ryan@senkawolf.com>
