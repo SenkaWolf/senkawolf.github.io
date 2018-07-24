@@ -24,5 +24,10 @@ ___
 ![WTLogo Preview](https://github.com/SenkaWolf/senkawolf.github.io/blob/master/Screenshots/WTLLogo.png?raw=true)
 ___
 ### Malipo Sounds Pack
-> Sound pack for popular iOS Jailbreak tweak, Malipo. Requires jailbroken device and the jailbreak application, Malipo.
+> Sound pack for popular iOS Jailbreak tweak, Malipo. Requires jailbroken device and the jailbreak application, Malipo. This tweak allows custom sounds to play when your device is put on charge.
+
+The list of added sounds are below:
+* [Hey Thats Pretty Good](https://youtu.be/nKV1RIX-o1k)
+* [Damn Son whered You Find This](https://youtu.be/z8RkR4rd7dM)
+* [HOT HOT HOT](https://youtu.be/vFrNxJoB768)
 ___
