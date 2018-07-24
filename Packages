@@ -7,8 +7,8 @@ Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.senkawolf.senkaszeppeliniconpack.deb
 Size: 21712
 MD5sum: f6d00ecd9a722e7b60ea86a2862d502f
-SHA1: C470E8C50798BFFE938E78A519E7DA60460A2817
-SHA256: 7FCF316D7CCDF11E28BC171E789FA42362934878D5FBF890633DCFC7107F090A
+SHA1: c470e8c50798bffe938e78a519e7da60460a2817
+SHA256: 7fcf316d7ccdf11e28bc171e789fa42362934878d5fbf890633dcfc7107f090a
 Section: Addons (Zeppelin)
 Description: Senka's Zeppelin Icon Pack
 Name: Senka's Zeppelin Icon Pack
@@ -23,8 +23,8 @@ Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.senkawolf.wtlvtczeppeliniconpack.deb
 Size: 9092
 MD5sum: fc944a1d66ed988206ecb8eb9934c542
-SHA1: 314835BF5BDDDDBB1141FF1F0BFDC3DF2503006A
-SHA256: 625C91F8425E3445C7CD01650B91F88342D20083AB1CC6D530C04B9785F69124
+SHA1: 314835bf5bddddbb1141ff1f0bfdc3df2503006a
+SHA256: 625c91f8425e3445c7cd01650b91f88342d20083ab1cc6d530c04b9785f69124
 Section: Addons (Zeppelin)
 Description: Worldwide Trucking Logistics VTC Zeppelin Icon Pack
 Name: WTLVTC Zeppelin Icon Pack
