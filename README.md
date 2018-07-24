@@ -12,22 +12,22 @@ ___
 
 > **Previews**
 
-![Wolf Preview](https://github.com/SenkaWolf/senkawolf.github.io/blob/master/Screenshots/wolf.png?raw=true)
-![Senka Preview](https://github.com/SenkaWolf/senkawolf.github.io/blob/master/Screenshots/senka.png?raw=true)
-![JapChar Preview](https://github.com/SenkaWolf/senkawolf.github.io/blob/master/Screenshots/JapChar.png?raw=true)
+![Wolf Preview](https://github.com/SenkaWolf/senkawolf.github.io/blob/master/Screenshots/wolf.png?raw=true){:target="_blank"}
+![Senka Preview](https://github.com/SenkaWolf/senkawolf.github.io/blob/master/Screenshots/senka.png?raw=true){:target="_blank"}
+![JapChar Preview](https://github.com/SenkaWolf/senkawolf.github.io/blob/master/Screenshots/JapChar.png?raw=true){:target="_blank"}
 ___
 ### WTLVTC Zeppelin Icon Pack
 > Icon pack for popular iOS Jailbreak tweak, Zeppelin. Requires jailbroken device and the jailbreak application, Zeppelin.
 
 > **Previews**
 
-![WTLogo Preview](https://github.com/SenkaWolf/senkawolf.github.io/blob/master/Screenshots/WTLLogo.png?raw=true)
+![WTLogo Preview](https://github.com/SenkaWolf/senkawolf.github.io/blob/master/Screenshots/WTLLogo.png?raw=true){:target="_blank"}
 ___
 ### Malipo Sounds Pack
 > Sound pack for popular iOS Jailbreak tweak, Malipo. Requires jailbroken device and the jailbreak application, Malipo. This tweak allows custom sounds to play when your device is put on charge.
 
 The list of added sounds are below:
-* [Hey Thats Pretty Good](https://youtu.be/nKV1RIX-o1k)
-* [Damn Son whered You Find This](https://youtu.be/z8RkR4rd7dM)
-* [HOT HOT HOT](https://youtu.be/vFrNxJoB768)
+* [Hey Thats Pretty Good](https://youtu.be/nKV1RIX-o1k){:target="_blank"}
+* [Damn Son whered You Find This](https://youtu.be/z8RkR4rd7dM){:target="_blank"}
+* [HOT HOT HOT](https://youtu.be/vFrNxJoB768){:target="_blank"}
 ___
