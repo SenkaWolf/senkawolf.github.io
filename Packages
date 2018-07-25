@@ -47,13 +47,13 @@ Author: Senka Wolf <ryan@senkawolf.com>
 Package: com.senkawolf.iphonewallpaperspack
 Maintainer: Senka Wolf <ryan@senkawolf.com>
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Depends:
 Filename: ./debs/com.senkawolf.iphonewallpaperspack.deb
-Size: 2836088
-MD5sum: 063fdf0dec1c6e5b4beef03a0e1e3438
-SHA1: 987660e777ca249fc3e11b69577bee296625ba7b
-SHA256: 63587952fd707ad1eb240be2ace616672274c25c0446be02e1ed1c0415a4809e
+Size: 2723132
+MD5sum: 7aaaee2c7e3dfa5579a495aa537a93c4
+SHA1: 3f6ce4f81550e60846dcbe7d907f5998d67f90e6
+SHA256: a722c87842311d7f6db9bc75b8f0ef55ab48be4e789869ae2a27e3e77e7c4b66
 Section: Wallpaper
 Description: Bringing you a selection of cool wallpapers for your iPhone 8, 7 and 6. Once installed respring your device to find the wallpapers @ Settings>Wallpapers>Stills
 Name: iPhone Wallpapers Pack
