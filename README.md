@@ -31,3 +31,8 @@ The list of added sounds are below:
 * [Damn Son whered You Find This](https://youtu.be/z8RkR4rd7dM)
 * [HOT HOT HOT](https://youtu.be/vFrNxJoB768)
 ___
+### iPhone Wallpapers Pack
+> Bringing you a selection of cool wallpapers for your iPhone 8, 7 and 6. Find the wallpapers @ Settings>Wallpapers>Stills
+
+The list of added wallpapers:
+___
