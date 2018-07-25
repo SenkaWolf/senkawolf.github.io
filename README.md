@@ -32,7 +32,7 @@ ___
 > * [HOT HOT HOT](https://youtu.be/vFrNxJoB768)
 ___
 ### iPhone Wallpapers Pack
-> Bringing you a selection of cool wallpapers for your iPhone 8, 7 and 6. Find the wallpapers @ Settings>Wallpapers>Stills
+> Bringing you a selection of cool wallpapers for your iPhone 8, 7 and 6. Once installed respring your device to find the wallpapers @ Settings>Wallpapers>Stills
 >
 > The list of added wallpapers:
 ___
