@@ -34,5 +34,5 @@ ___
 ### iPhone Wallpapers Pack
 > Bringing you a selection of cool wallpapers for your iPhone 8, 7 and 6. Find the wallpapers @ Settings>Wallpapers>Stills
 
-The list of added wallpapers:
+> The list of added wallpapers:
 ___
