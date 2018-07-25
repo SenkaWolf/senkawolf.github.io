@@ -15,7 +15,6 @@ Name: Senka's Zeppelin Icon Pack
 Author: Senka Wolf <ryan@senkawolf.com>
 
 Package: com.senkawolf.wtlvtczeppeliniconpack
-Section: Addons (Zeppelin)
 Maintainer: Senka Wolf <ryan@senkawolf.com>
 Architecture: iphoneos-arm
 Version: 1.0
@@ -31,7 +30,6 @@ Name: WTLVTC Zeppelin Icon Pack
 Author: Senka Wolf <ryan@senkawolf.com>
 
 Package: com.senkawolf.malipospack
-Section: Addons (Malipo)
 Maintainer: Senka Wolf <ryan@senkawolf.com>
 Architecture: iphoneos-arm
 Version: 1.0
@@ -44,4 +42,19 @@ SHA256: 1cf74f596c39114ef5d999d69e3b59d6dd41066cab6ccf1100224936f8fc3a6d
 Section: Addons (Malipo)
 Description: Sounds pack for Malipo. Adds three sounds: Hey Thats Pretty Good, Damn Son whered You Find This and HOT HOT HOT.
 Name: Malipo Sounds Pack
+Author: Senka Wolf <ryan@senkawolf.com>
+
+Package: com.senkawolf.iphonewallpaperspack
+Maintainer: Senka Wolf <ryan@senkawolf.com>
+Architecture: iphoneos-arm
+Version: 1.0
+Depends:
+Filename: ./debs/com.senkawolf.iphonewallpaperspack.deb
+Size: 2150160
+MD5sum: 02d951faee6c6ea04a6bdf329941f6c5
+SHA1: 6787109bde4f018fd98c964e64ed0eff6078a219
+SHA256: 91f4196531dab7cd78fe0144def5dfb07146673eecea6c6eeeec963833e44dc6
+Section: Wallpaper
+Description: Bringing you a selection of cool wallpapers for your iPhone 8, 7 and 6.
+Name: iPhone Wallpapers Pack
 Author: Senka Wolf <ryan@senkawolf.com>
