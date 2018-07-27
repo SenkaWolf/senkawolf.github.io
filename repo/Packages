@@ -2,13 +2,13 @@ Package: com.senkawolf.senkaszeppeliniconpack
 Section: Addons (Zeppelin)
 Maintainer: Senka Wolf <ryan@senkawolf.com>
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.2
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.senkawolf.senkaszeppeliniconpack.deb
-Size: 21712
-MD5sum: f6d00ecd9a722e7b60ea86a2862d502f
-SHA1: c470e8c50798bffe938e78a519e7da60460a2817
-SHA256: 7fcf316d7ccdf11e28bc171e789fa42362934878d5fbf890633dcfc7107f090a
+Size: 21734
+MD5sum: fbc98b453a906411e98cbba50ce50950
+SHA1: 2830e5a7310a32ec29e03fc0a2fced768452105d
+SHA256: a5ba9b8853323b255529072d457ef77409a9c2020876d03c7985d2d8e6e519d5
 Section: Addons (Zeppelin)
 Description: Senka's Zeppelin Icon Pack
 Name: Senka's Zeppelin Icon Pack
@@ -18,13 +18,13 @@ Depiction: https://senkawolf.github.io/repo/depictions/?p=com.senkawolf.senkasze
 Package: com.senkawolf.wtlvtczeppeliniconpack
 Maintainer: Senka Wolf <ryan@senkawolf.com>
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.senkawolf.wtlvtczeppeliniconpack.deb
-Size: 9092
-MD5sum: fc944a1d66ed988206ecb8eb9934c542
-SHA1: 314835bf5bddddbb1141ff1f0bfdc3df2503006a
-SHA256: 625c91f8425e3445c7cd01650b91f88342d20083ab1cc6d530c04b9785f69124
+Size: 9122
+MD5sum: 11ecbe25b3d57dd7ea63531bb057f30f
+SHA1: 8f4bb4bec3fdd4790c94a1e5413394b0f6d39200
+SHA256: 13853e83c6fca0ba3e8ff93a7ce00db93ff2464cde402ca8543ac0b2e80b5cf7
 Section: Addons (Zeppelin)
 Description: Worldwide Trucking Logistics VTC Zeppelin Icon Pack
 Name: WTLVTC Zeppelin Icon Pack
@@ -34,29 +34,31 @@ Depiction: https://senkawolf.github.io/repo/depictions/?p=com.senkawolf.wtlvtcze
 Package: com.senkawolf.malipospack
 Maintainer: Senka Wolf <ryan@senkawolf.com>
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Depends: com.ikilledappl3.malipo
 Filename: ./debs/com.senkawolf.malipospack.deb
-Size: 1100686
-MD5sum: b6b320f1946eb9a497614a80a6b80dfa
-SHA1: be04ccd80a0f9246c18293e7174859a8f71b7425
-SHA256: 1cf74f596c39114ef5d999d69e3b59d6dd41066cab6ccf1100224936f8fc3a6d
+Size: 1099778
+MD5sum: becca12b0337d25a96bac297a5647ac1
+SHA1: 6a56081d7107606f5483716ca57256d3262929cc
+SHA256: 920bfc3cdc6a16fcef281a1cf12bb14c1104b6d93bb445344780c5d8ff0fa4cc
 Section: Addons (Malipo)
 Description: Sounds pack for Malipo. Adds three sounds: Hey Thats Pretty Good, Damn Son whered You Find This and HOT HOT HOT.
 Name: Malipo Sounds Pack
 Author: Senka Wolf <ryan@senkawolf.com>
+Depiction: https://senkawolf.github.io/repo/depictions/?p=com.senkawolf.malipospack
 
 Package: com.senkawolf.iphonewallpaperspack
 Maintainer: Senka Wolf <ryan@senkawolf.com>
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.2
 Depends:
 Filename: ./debs/com.senkawolf.iphonewallpaperspack.deb
-Size: 2723132
-MD5sum: 7aaaee2c7e3dfa5579a495aa537a93c4
-SHA1: 3f6ce4f81550e60846dcbe7d907f5998d67f90e6
-SHA256: a722c87842311d7f6db9bc75b8f0ef55ab48be4e789869ae2a27e3e77e7c4b66
+Size: 2723156
+MD5sum: 36b684f9d3259ec0402e41255bb39fcb
+SHA1: 97c1c3ab6f7f3804f59f3819aa0039fb514c2d07
+SHA256: 0ac22634d025d9d4abccc54e17974d443704545442f4072ee3e7b71a283374ff
 Section: Wallpaper
 Description: Bringing you a selection of cool wallpapers for your iPhone 8, 7 and 6. Once installed respring your device to find the wallpapers @ Settings>Wallpapers>Stills
 Name: iPhone Wallpapers Pack
 Author: Senka Wolf <ryan@senkawolf.com>
+Depiction: https://senkawolf.github.io/repo/depictions/?p=com.senkawolf.iphonewallpaperspack

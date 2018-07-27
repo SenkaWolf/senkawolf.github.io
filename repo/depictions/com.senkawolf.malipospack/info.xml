@@ -1,6 +1,6 @@
 <package>
-	<id>com.senkawolf.wtlvtczeppeliniconpack</id>
-	<name>WTLVTC Zeppelin Icon Pack</name>
+	<id>com.senkawolf.malipospack</id>
+	<name>Malipo Sounds Pack</name>
 	<version>1.1</version>
 	<compatibility>
 		<firmware>
@@ -8,16 +8,13 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.alexzielenski.zeppelin</package>
+		<package>com.ikilledappl3.malipo</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Worldwide Trucking Logistics VTC Zeppelin Icon Pack</description>
+		<description>Sounds pack for Malipo. Adds three sounds: Hey Thats Pretty Good, Damn Son whered You Find This and HOT HOT HOT.</description>
 	</descriptionlist>
 	<screenshots>
-		<screenshot>
-			<description>WTLLogo</description>
-			<image>WTLLogo.png</image>
-		</screenshot>	
+	
 	</screenshots>
 	<changelog>
 		<change>Added Depiction Support</change>

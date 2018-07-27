@@ -1,0 +1,48 @@
+<package>
+	<id>com.senkawolf.iphonewallpaperspack</id>
+	<name>iPhone Wallpapers Pack</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>None</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Bringing you a selection of cool wallpapers for your iPhone 8, 7 and 6. Once installed respring your device to find the wallpapers @ Settings>Wallpapers>Stills</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Screenshot 1</description>
+			<image>screenshot1.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 2</description>
+			<image>screenshot2.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 3</description>
+			<image>screenshot3.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 4</description>
+			<image>screenshot4.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Screenshot 5</description>
+			<image>screenshot5.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Added Depiction Support</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Repo Info</name>
+			<url>https://senkawolf.github.io/</url>
+			<iconclass>fa fa-info</iconclass>
+		</link>
+	</links>
+</package>
