@@ -1,0 +1,40 @@
+<package>
+	<id>com.senkawolf.senkaszeppeliniconpack</id>
+	<name>Senka's Zeppelin Icon Pack</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.alexzielenski.zeppelin</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Senka's Zeppelin Icon Pack</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Wolf Icon</description>
+			<image>wolf.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Wolf Japanese Character Icon</description>
+			<image>JapChar.png</image>
+		</screenshot>
+		<screenshot>
+			<description>Senka Text Icon</description>
+			<image>senka.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Added two new icons</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Repo Info</name>
+			<url>https://senkawolf.github.io/</url>
+			<iconclass>fa fa-info</iconclass>
+		</link>
+	</links>
+</package>

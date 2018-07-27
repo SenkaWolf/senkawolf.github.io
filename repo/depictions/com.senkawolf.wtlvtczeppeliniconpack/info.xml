@@ -1,0 +1,32 @@
+<package>
+	<id>com.senkawolf.wtlvtczeppeliniconpack</id>
+	<name>WTLVTC Zeppelin Icon Pack</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.alexzielenski.zeppelin</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Worldwide Trucking Logistics VTC Zeppelin Icon Pack</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>WTLLogo</description>
+			<image>WTLLogo.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Repo Info</name>
+			<url>https://senkawolf.github.io/</url>
+			<iconclass>fa fa-info</iconclass>
+		</link>
+	</links>
+</package>

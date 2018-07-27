@@ -13,6 +13,7 @@ Section: Addons (Zeppelin)
 Description: Senka's Zeppelin Icon Pack
 Name: Senka's Zeppelin Icon Pack
 Author: Senka Wolf <ryan@senkawolf.com>
+Depiction: https://senkawolf.github.io/repo/depictions/?p=com.senkawolf.senkaszeppeliniconpack
 
 Package: com.senkawolf.wtlvtczeppeliniconpack
 Maintainer: Senka Wolf <ryan@senkawolf.com>
@@ -28,6 +29,7 @@ Section: Addons (Zeppelin)
 Description: Worldwide Trucking Logistics VTC Zeppelin Icon Pack
 Name: WTLVTC Zeppelin Icon Pack
 Author: Senka Wolf <ryan@senkawolf.com>
+Depiction: https://senkawolf.github.io/repo/depictions/?p=com.senkawolf.wtlvtczeppeliniconpack
 
 Package: com.senkawolf.malipospack
 Maintainer: Senka Wolf <ryan@senkawolf.com>

@@ -1,14 +1,29 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Like me on Facebook</name>
-			<url>https://www.facebook.com/SenkaWolfGaming</url>
-			<iconclass>fa fa-facebook</iconclass>
-		</link>
-		<link>
 			<name>Website</name>
 			<url>https://senkawolf.com/</url>
 			<iconclass>fa fa-globe</iconclass>
+		</link>
+		<link>
+			<name>Steam</name>
+			<url>https://steamcommunity.com/id/senkawolf/</url>
+			<iconclass>fa fa-steam</iconclass>
+		</link>
+		<link>
+			<name>YouTube</name>
+			<url>https://www.youtube.com/SenkaWolf</url>
+			<iconclass>fa fa-youtube</iconclass>
+		</link>
+		<link>
+			<name>Twitch</name>
+			<url>https://www.twitch.tv/senka_wolf</url>
+			<iconclass>fa fa-twitch</iconclass>
+		</link>
+		<link>
+			<name>Like me on Facebook</name>
+			<url>https://www.facebook.com/SenkaWolfGaming</url>
+			<iconclass>fa fa-facebook</iconclass>
 		</link>
 	</footerlinks>
 </repo>
