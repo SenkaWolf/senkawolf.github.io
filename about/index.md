@@ -1,24 +1,19 @@
 ---
 layout: page
 title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags: [about, Senka Wolf, cydia, tweak, repo]
+date: 2018-07-28
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="https://senkawolf.github.io/repo"><b>Cydia Repository</b></a> is a repo collection of tweaks I have made for IOS jailkbroken devices.</center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* Senka's Zeppelin Icon Pack
+* WTLVTC Zeppelin Icon Pack
+* Malipo Sounds Pack
+* iPhone Wallpapers Pack
+
 
 ## Preview
 
@@ -31,7 +26,5 @@ comments: false
 See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
 
 ## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Install Repo](cydia://url/https://cydia.saurik.com/api/share#?source=https://senkawolf.github.io/repo){: .btn}
