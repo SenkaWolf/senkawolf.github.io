@@ -19,5 +19,5 @@ comments: false
 [Install Repo](cydia://url/https://cydia.saurik.com/api/share#?source=https://senkawolf.github.io/repo){: .btn}
 
 ## Credit
-* [TaylanTatli](http://taylantatli.github.io/Moon) - Website Template
+* [TaylanTatli](https://github.com/TaylanTatli/Moon) - Website Template
 * [supermamon](https://github.com/supermamon/Reposi3) - Repo Template

@@ -1,16 +1,15 @@
 ---
 layout: post
-title:  "Iphone Wallpapers Pack"
-date:   2018-07-25
-excerpt: "Iphone Wallpapers Pack."
+title:  "WTLVTC Zeppelin Icon Pack"
+date:   2018-07-27
+excerpt: "WTLVTC Zeppelin Icon Pack."
 project: true
 tag:
-- Wallpaper
 - Addon
 comments: true
 ---
      
-Bringing you a selection of cool wallpapers for your iPhone 8, 7 and 6. Once installed respring your device to find the wallpapers @ Settings>Wallpapers>Stills
+Worldwide Trucking Logistics VTC Zeppelin Icon Pack
 
 If you like this tweak or using it, please give a star for motivation, It makes me happy.
 
@@ -20,8 +19,8 @@ If you like this tweak or using it, please give a star for motivation, It makes 
 * Add my repo to cydia http://senkawolf.github.io/repo
 * Click on 'Sources'.
 * Click on 'Senka's Repo'.
-* Select the 'Wallpapers' Secton.
-* Select the tweak 'Iphone Wallpapers Pack'.
+* Select the 'Zeppelin Addon' Secton.
+* Select the tweak 'WTLVTC Zeppelin Icon Pack'.
 * Finally click 'install' at the top right.
      
 That's all.
@@ -29,7 +28,7 @@ That's all.
 ## Preview
 
 {% capture images %}
-	https://github.com/SenkaWolf/senkawolf.github.io/blob/master/repo/depictions/com.senkawolf.iphonewallpaperspack/screenshots/collage1.jpg?raw=true
+	https://github.com/SenkaWolf/senkawolf.github.io/blob/master/repo/depictions/com.senkawolf.wtlvtczeppeliniconpack/screenshots/WTLLogo.png?raw=true
 {% endcapture %}
 {% include gallery images=images caption="Screenshots" cols=3 %}
 

@@ -1,16 +1,19 @@
 ---
 layout: post
-title:  "Iphone Wallpapers Pack"
-date:   2018-07-25
-excerpt: "Iphone Wallpapers Pack."
+title:  "Malipo Sounds Pack"
+date:   2018-07-24
+excerpt: "Malipo Sounds Pack."
 project: true
 tag:
-- Wallpaper
+- Sound
 - Addon
 comments: true
 ---
      
-Bringing you a selection of cool wallpapers for your iPhone 8, 7 and 6. Once installed respring your device to find the wallpapers @ Settings>Wallpapers>Stills
+Sounds pack for Malipo. Adds three sounds: 
+* [Hey Thats Pretty Good](https://youtu.be/nKV1RIX-o1k)
+* [Damn Son whered You Find This](https://youtu.be/z8RkR4rd7dM)
+* [HOT HOT HOT](https://youtu.be/vFrNxJoB768)
 
 If you like this tweak or using it, please give a star for motivation, It makes me happy.
 
@@ -20,8 +23,8 @@ If you like this tweak or using it, please give a star for motivation, It makes 
 * Add my repo to cydia http://senkawolf.github.io/repo
 * Click on 'Sources'.
 * Click on 'Senka's Repo'.
-* Select the 'Wallpapers' Secton.
-* Select the tweak 'Iphone Wallpapers Pack'.
+* Select the 'Malipo Addon' Secton.
+* Select the tweak 'Malipo Sounds Pack'.
 * Finally click 'install' at the top right.
      
 That's all.
@@ -29,7 +32,7 @@ That's all.
 ## Preview
 
 {% capture images %}
-	https://github.com/SenkaWolf/senkawolf.github.io/blob/master/repo/depictions/com.senkawolf.iphonewallpaperspack/screenshots/collage1.jpg?raw=true
+	
 {% endcapture %}
 {% include gallery images=images caption="Screenshots" cols=3 %}
 
