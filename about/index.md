@@ -6,7 +6,7 @@ date: 2018-07-28
 comments: false
 ---
     
-<center><a href="https://senkawolf.github.io/repo"><b>Cydia Repository</b></a> is a repo collection of tweaks I have made for IOS jailkbroken devices.</center>
+<center><a href="https://senkawolf.github.io/repo"><b>Senka's Repository</b></a> is a repo collection of tweaks I have made for IOS jailkbroken devices.</center>
 
 ## Features
 * Senka's Zeppelin Icon Pack

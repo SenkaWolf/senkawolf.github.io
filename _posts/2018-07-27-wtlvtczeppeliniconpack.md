@@ -6,7 +6,7 @@ excerpt: "WTLVTC Zeppelin Icon Pack."
 project: true
 tag:
 - Addon
-comments: true
+comments: false
 ---
      
 Worldwide Trucking Logistics VTC Zeppelin Icon Pack

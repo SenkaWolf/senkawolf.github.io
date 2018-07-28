@@ -7,7 +7,7 @@ project: true
 tag:
 - Wallpaper
 - Addon
-comments: true
+comments: false
 ---
      
 Bringing you a selection of cool wallpapers for your iPhone 8, 7 and 6. Once installed respring your device to find the wallpapers @ Settings>Wallpapers>Stills

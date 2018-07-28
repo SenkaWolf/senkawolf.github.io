@@ -7,7 +7,7 @@ project: true
 tag:
 - Sound
 - Addon
-comments: true
+comments: false
 ---
      
 Sounds pack for Malipo. Adds three sounds: 

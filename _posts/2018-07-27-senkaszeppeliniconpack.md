@@ -6,7 +6,7 @@ excerpt: "Senka's Zeppelin Icon Pack."
 project: true
 tag:
 - Addon
-comments: true
+comments: false
 ---
      
 Senka's Zeppelin Icon Pack

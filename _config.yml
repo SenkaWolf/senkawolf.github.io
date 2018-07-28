@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   senkawolf
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:            ryan@senkawolf.com
 twitter:            Senka_Wolf
 #facebook:           username
 github-url:         SenkaWolf
@@ -52,7 +52,7 @@ github-url:         SenkaWolf
 #foursquare:        username
 steam:              senkawolf
 #dribbble:          username
-youtube:           UCx038ImNcXB3PiRT5R6F9zg
+youtube:           SenkaWolf
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
