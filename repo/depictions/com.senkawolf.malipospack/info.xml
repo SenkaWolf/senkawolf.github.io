@@ -11,7 +11,7 @@
 		<package>com.ikilledappl3.malipo</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Sounds pack for Malipo. Adds three sounds: Hey Thats Pretty Good, Damn Son whered You Find This and HOT HOT HOT.</description>
+		<description>Sounds pack for Malipo. Adds three sounds: Hey Thats Pretty Good, Damn Son whered You Find This and HOT HOT HOT. You can preview the sounds below.</description>
 		<links>
 			<link>
 				<name>Hey Thats Pretty Good</name>
@@ -26,6 +26,26 @@
 		<change>Added Depiction Support</change>
 	</changelog>
 	<links>
+		<link>
+			<name>Preview 1: Hey Thats Pretty Good SFX</name>
+			<url>https://youtu.be/nKV1RIX-o1k</url>
+			<iconclass>fa fa-circle</iconclass>
+		</link>
+		<link>
+			<name>Preview 2: Damn Son whered You Find This SFX</name>
+			<url>https://youtu.be/z8RkR4rd7dM</url>
+			<iconclass>fa fa-circle</iconclass>
+		</link>
+		<link>
+			<name>Preview 3: HOT HOT HOT SFX</name>
+			<url>https://youtu.be/vFrNxJoB768</url>
+			<iconclass>fa fa-circle</iconclass>
+		</link>
+		<link>
+			<name>Found a bug or aren’t quite sure how something works? By all means file a GitHub Issue.</name>
+			<url>https://github.com/SenkaWolf/senkawolf.github.io/issues/new</url>
+			<iconclass>fa fa-question</iconclass>
+		</link>
 		<link>
 			<name>Repo Info</name>
 			<url>https://senkawolf.github.io/</url>

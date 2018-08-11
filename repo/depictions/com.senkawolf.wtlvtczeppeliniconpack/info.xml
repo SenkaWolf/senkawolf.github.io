@@ -24,6 +24,11 @@
 	</changelog>
 	<links>
 		<link>
+			<name>Found a bug or aren’t quite sure how something works? By all means file a GitHub Issue.</name>
+			<url>https://github.com/SenkaWolf/senkawolf.github.io/issues/new</url>
+			<iconclass>fa fa-question</iconclass>
+		</link>
+		<link>
 			<name>Repo Info</name>
 			<url>https://senkawolf.github.io/</url>
 			<iconclass>fa fa-info</iconclass>
