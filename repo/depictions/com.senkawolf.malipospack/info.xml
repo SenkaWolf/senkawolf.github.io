@@ -12,10 +12,12 @@
 	</dependencies>
 	<descriptionlist>
 		<description>Sounds pack for Malipo. Adds three sounds: Hey Thats Pretty Good, Damn Son whered You Find This and HOT HOT HOT.</description>
-		<link>
-			<name>Hey Thats Pretty Good</name>
-			<url>https://youtu.be/nKV1RIX-o1k</url>
-		</link>
+		<links>
+			<link>
+				<name>Hey Thats Pretty Good</name>
+				<url>https://youtu.be/nKV1RIX-o1k</url>
+			</link>
+		</links>
 	</descriptionlist>
 	<screenshots>
 	
