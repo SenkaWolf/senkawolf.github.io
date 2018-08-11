@@ -8,6 +8,10 @@ comments: false
     
 <center><a href="https://senkawolf.github.io/repo"><b>Senka's Repository</b></a> is a repo collection of tweaks I have made for IOS jailkbroken devices.</center>
 
+If you like this tweak or using it, please give a star for motivation, It makes me happy.
+
+<iframe src="https://ghbtns.com/github-btn.html?user=SenkaWolf&repo=senkawolf.github.io&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>    
+
 ## Features
 * Senka's Zeppelin Icon Pack
 * WTLVTC Zeppelin Icon Pack
